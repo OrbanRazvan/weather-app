@@ -1,0 +1,7 @@
+body {
+  margin: 0;
+  font-family: "Consolas", Arial !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #CAC0B3;
+}
